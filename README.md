@@ -273,11 +273,6 @@ print(f"Recommended crop: {prediction[0]}")
 5. **Practical ML**: Real-world ML requires balancing performance with economic constraints
 
 ---
-## 🎯 Viewing the Code
-
-For view the notebook, go to [link](https://nbviewer.org/github/PRSPrithvi/Predictive-Modelling-for-Agriculture/blob/main/crops.ipynb).
-
----
 
 ## 👤 Author
 

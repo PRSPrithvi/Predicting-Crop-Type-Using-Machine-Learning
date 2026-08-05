@@ -120,7 +120,7 @@ To address budget constraints, each soil metric was evaluated individually using
 | Two Metrics (K and P) | 50% | 48.47% | Medium-sized operations |
 | Single Metric (K) | 25% | 29.43% | Budget-limited farms |
 
-**Key Insight**: Farmers can achieve **79.40%** of full model performance, while reducing testing costs by **75%** using only K measurements.
+**Key Insight**: Farmers can achieve **79.40%** of full model performance, while reducing testing costs by **29.43%** using only K measurements.
 
 ---
 
